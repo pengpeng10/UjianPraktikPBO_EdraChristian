@@ -130,6 +130,8 @@ class EkspedisiManager {
 }
 
 fun main() {
+    println("\n")
+    println("===== Manager Ekspedisi =====")
     val manager = EkspedisiManager()
 
     val paket1 = PaketReguler(
